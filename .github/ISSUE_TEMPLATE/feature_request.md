@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+Use this template if you want to request a new feature, or a change to an
+existing feature for Biskit.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+If you are reporting a bug or problem, please use the bug template instead :bug:.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Summary
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Please describe your request in one or two sentences.
+
+Clarify if you are asking for design, development, or both design and
+development.
